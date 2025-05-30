@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ActualizarAdministradoresform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ActualizarAnimalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="administracion_animalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Administradoresform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AgregarAdministradorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContactanosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="gatoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HistoriaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MostrarAnimalesfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="respuestaSolicitudFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="seguimientoAdminfrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="seguimientoFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SolicitudesAdopcion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="insertAnimalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="perroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registrarsefrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SolicitudForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
